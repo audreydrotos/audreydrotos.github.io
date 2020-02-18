@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Audrey Claire Drotos"
-  avatar           : "profile.png"
+  avatar           : profile.png
   bio              : "Neuroscience doctoral student studying auditory circuitry in the brainstem at the University of Michigan"
   location         : "Ann Arbor, Michigan"
   employer         :
