@@ -6,7 +6,22 @@ author_profile: true
 redirect_from:
   - /outreach
 ---
-**Girls Who Code Mentor** – *Department of Computational Medicine & Biology*, Ann Arbor, MI	January 2019
+**Outreach cancelled due to COVID-19 outbreak**
+* Michigan DNA Day Volunteer
+* FEMMES Capstone Group Leader
+
+**BrainsRule! Committee** - *Neuroscience Graduate Program*, Ann Arbor, MI, November 2019
+*(event cancelled due to COVID-19 outbreak)*
+* Helped to develop curriculum for booths for a one-day neuroscience educational event for middle school
+students held at the Michigan League.
+* Worked on an education committee with other members to coordinating updating booth descriptions and
+guides from past years.
+
+**Annual Retreat Committee** - *Neuroscience Graduate Program*, Ann Arbor, MI, October 2019
+* Coordinated with committee members to select a date and location for the 2020 NGP retreat.
+* Researched options for speakers and helped select a speaker for the retreat.
+
+**Girls Who Code Mentor** – *Department of Computational Medicine & Biology*, Ann Arbor, MI	September 2019
 * Taught weekly programming lessons in Python to high school women in the Ann Arbor area.
 * Mentored a team of two girls on an independent capstone programming project, culminating in a final presentation. 
 
