@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /outreach
 ---
-**Outreach cancelled due to COVID-19 outbreak**
-* Michigan DNA Day Volunteer
-* FEMMES Capstone Group Leader
+
 
 **BrainsRule! Committee** - *Neuroscience Graduate Program*, Ann Arbor, MI, November 2019
 *(event cancelled due to COVID-19 outbreak)*
@@ -24,6 +22,10 @@ guides from past years.
 **Girls Who Code Mentor** – *Department of Computational Medicine & Biology*, Ann Arbor, MI	September 2019
 * Taught weekly programming lessons in Python to high school women in the Ann Arbor area.
 * Mentored a team of two girls on an independent capstone programming project, culminating in a final presentation. 
+
+*Outreach cancelled due to COVID-19 outbreak*
+* *Michigan DNA Day Volunteer*
+* *FEMMES Capstone Group Leader*
 
 **Demonstration Booth Presenter** – *MSU Neuroscience Fair*, East Lansing, MI	April 2018
 * Created a short version of the Stroop task paradigm that students and adults could participate in at a booth.
