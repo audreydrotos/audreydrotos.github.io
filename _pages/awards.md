@@ -7,8 +7,8 @@ redirect_from:
   - /awards
 ---
 **Graduate**
-* National Science Foundation Graduate Research Fellowship Program**, March 2020
-* Rachkam Predcotoral Fellowship Program**, November 2019
+* National Science Foundation Graduate Research Fellowship Program, March 2020
+* Rachkam Predcotoral Fellowship Program, November 2019
 
 **Undergraduate**
 * MSU Undergraduate Research Forum 2019 Grand Prize Award, July 2019
