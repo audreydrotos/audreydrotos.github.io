@@ -6,7 +6,13 @@ author_profile: true
 redirect_from:
   - /outreach
 ---
+**Anti-Racism Book Club Facilitator** - *Neuroscience Graduate Program*, Ann Arbor, MI, June 2020-Present
+* Led group discussions over three months of the book White Fragility by Robin DiAngelo with Neuroscience program faculty, staff, and students. 
+* Helped to design discussion guidelines and facilitated bi-weekly discussions surrounding white privilege, racism, policing, and prison reform in the US.
 
+**FEMMES Capstone Activity Coordinator** - *University of Michigan*, Ann Arbor, MI May 2020-Present
+* Coordinated virtual events for young women in STEM during the COVID crisis, including a virtual Capstone event where students learned many different basic science concepts.
+* Attended leadership retreat and networked with fellow executive board members to find ways to engage with students during the school year.
 
 **BrainsRule! Committee** - *Neuroscience Graduate Program*, Ann Arbor, MI, November 2019
 *(event cancelled due to COVID-19 outbreak)*
